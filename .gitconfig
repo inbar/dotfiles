@@ -174,3 +174,7 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+	name = inbar
+	email = poupik@gmail.com
