@@ -101,6 +101,12 @@ brew cask install sublime-text3
 brew cask install intellij-idea-ce
 brew cask install java
 
+# Bash autocompletions
+brew tap homebrew/completions
+brew install docker-completion
+brew install maven-completion
+brew install grunt-completion
+
 
 
 # Remove outdated versions from the cellar.
