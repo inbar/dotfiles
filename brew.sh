@@ -100,6 +100,13 @@ brew cask install android-file-transfer
 brew cask install sublime-text3
 brew cask install intellij-idea-ce
 brew cask install java
+brew cask install insomniax
+brew cask install iterm2
+brew cask install sourcetree
+brew cask install keka
+brew cask install netspot
+
+
 
 # Bash autocompletions
 brew tap homebrew/completions
