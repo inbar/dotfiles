@@ -91,6 +91,8 @@ brew install ssh-copy-id
 brew install node
 brew install maven
 brew install gradle
+brew install ngrok
+
 
 brew tap caskroom/cask
 brew tap caskroom/versions
