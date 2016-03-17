@@ -108,6 +108,8 @@ brew cask install sourcetree
 brew cask install keka
 brew cask install netspot
 brew cask install mou
+brew cask install cyberduck
+
 
 
 # Bash autocompletions
