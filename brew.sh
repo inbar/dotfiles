@@ -109,6 +109,8 @@ brew cask install keka
 brew cask install netspot
 brew cask install mou
 brew cask install cyberduck
+brew cask install skype
+
 
 
 
